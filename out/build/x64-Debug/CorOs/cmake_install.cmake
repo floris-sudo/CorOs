@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Floris/OneDrive/Projecten/CorOs/CorOs
+# Install script for directory: D:/flori/OneDrive/Projecten/CorOs/CorOs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/Floris/OneDrive/Projecten/CorOs/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "D:/flori/OneDrive/Projecten/CorOs/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

@@ -10,7 +10,6 @@
 					[
 						1
 					],
-					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.8"
@@ -20,7 +19,6 @@
 				},
 				{
 					"build" : "CorOs",
-					"jsonFile" : "directory-CorOs-Debug-67de35d15edc9dc8db5c.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.8"
@@ -65,12 +63,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Floris/OneDrive/Projecten/CorOs/out/build/x64-Debug",
-		"source" : "C:/Users/Floris/OneDrive/Projecten/CorOs"
+		"build" : "D:/flori/OneDrive/Projecten/CorOs/out/build/x64-Debug",
+		"source" : "D:/flori/OneDrive/Projecten/CorOs"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 2
 	}
 }
